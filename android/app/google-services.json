@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "972184746650",
+    "project_id": "yasmina-6f263",
+    "storage_bucket": "yasmina-6f263.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972184746650:android:bfdf9594d9ef4617933d23",
+        "android_client_info": {
+          "package_name": "com.example.dtc6464"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972184746650-ht7t4ro6o4c4i8sjc74ka0l96hhf452m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx6yRp8L2Cc-CrCuj9ANeTxGpFH795B54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972184746650-ht7t4ro6o4c4i8sjc74ka0l96hhf452m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972184746650-5os0e0ei82f2pkf0sevdmo95b5t22j0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yasminaarsic.vendora"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
