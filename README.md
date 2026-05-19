@@ -174,8 +174,8 @@ Create a `.env` file in the project root (already gitignored) and populate it wi
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd dtc6464-main
+git clone https://github.com/nuhanchowdhurylinkdin-a11y/Interview-flow.git
+cd Interview-flow
 
 # Install dependencies
 flutter pub get
